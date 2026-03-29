@@ -1,7 +1,7 @@
 # 吴显峰的自我介绍
 
 <!-- 插入红眼哈基米形象图片，宽度200 -->
-<img src="images/hajimi.jpg" width="200" alt="吴显峰">
+<img src="https://github.com/NORISK-bot/NORISK/blob/main/hajimi.jpg" width="200" alt="吴显峰">
 
 大家好，我是**吴显峰**，我的身份是*广州城市理工学院人工智能二班学生*
 
